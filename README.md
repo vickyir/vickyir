@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vickyir
+- 👋 Hi, I’m @vicky irwanto
 - 👀 I’m interested in Web and Mobile Programming
 - 🌱 I’m currently a iOS Developer
 - 💞️ I’m looking to collaborate on everthing about coding or programming
